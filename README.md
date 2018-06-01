@@ -1,6 +1,9 @@
 # list-events-shortcode
 Shortcode for WordPress to list events retrieved using the Mapas Culturais API
 
+Es un fork de https://github.com/medialab-ufg/list-events-shortcode
+
+
 # Como usar
 
 Para listar os eventos dos Museus dentro de uma página ou post utilize o shortcode "list_events" com os atributos:
